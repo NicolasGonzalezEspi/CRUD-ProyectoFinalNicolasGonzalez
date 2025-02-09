@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\modificar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\modificar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\borrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\borrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\modificar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\modificar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|c:\\users\\piani\\source\\repos\\trabajofinalinterfaces\\trabajofinalinterfaces\\trabajofinalinterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58E59305-8123-4BCC-8C34-716B874944F1}|trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj|solutionrelative:trabajofinalinterfaces\\trabajofinalinterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "baseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\baseDeDatos.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\baseDeDatos.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\baseDeDatos.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\baseDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:52:22.431Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Main.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Main.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Main.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:48:10.478Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Inicio.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Inicio.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Inicio.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Inicio.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:50:01.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Borrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Borrar.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Borrar.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Borrar.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Borrar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:44:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\App.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\App.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:57:34.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\App.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\App.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\App.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-09T15:57:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agregar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Agregar.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Agregar.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Agregar.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Agregar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:25:44.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agregar.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Agregar.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Agregar.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Agregar.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Agregar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:50:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrar.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Borrar.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Borrar.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Borrar.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Borrar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:49:18.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modificar.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Modificar.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Modificar.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Modificar.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Modificar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:50:14.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Inicio.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Inicio.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Inicio.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Inicio.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:22:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Main.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Main.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:49:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\MainWindow.xaml",
+              "RelativeToolTip": "trabajoFinalInterfaces\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-09T10:50:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\MainWindow.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:50:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Modificar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Modificar.xaml.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\Modificar.xaml.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\Modificar.xaml.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\Modificar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:52:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\AssemblyInfo.cs",
+              "RelativeToolTip": "trabajoFinalInterfaces\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:57:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "trabajoFinalInterfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj",
+              "RelativeDocumentMoniker": "trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj",
+              "ToolTip": "C:\\Users\\piani\\source\\repos\\trabajoFinalInterfaces\\trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj",
+              "RelativeToolTip": "trabajoFinalInterfaces\\trabajoFinalInterfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T15:00:07.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

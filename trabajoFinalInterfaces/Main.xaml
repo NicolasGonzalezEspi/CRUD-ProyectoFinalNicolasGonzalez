@@ -1,0 +1,28 @@
+﻿<Window x:Class="trabajoFinalInterfaces.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Main" Height="450" Width="800">
+
+    <Grid>
+        <!-- definir columnas con proporciones para secciones -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.06*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- panel con menú -->
+        <StackPanel Grid.Column="0" Background="#5DB85B" Margin="0,0,34,0">
+            <TextBlock TextWrapping="Wrap" Text="Northwind" Height="29" Width="113" Margin="17"/>
+            <Button Content="Inicio" Click="BtnInicio_Click" Margin="5, 85, 0, 0"  Width="120"/>
+            <Button Content="Agregar" Click="BtnAgregar_Click" Margin="5, 15, 0, 0" Width="120"/>
+            <Button Content="Modificar" Click="BtnModificar_Click" Margin="5, 15, 0, 0" Width="120"/>
+            <Button Content="Borrar" Click="BtnBorrar_Click" Margin="5, 15, 0, 0" Width="120"/>
+
+            <Button Content="Cerrar Sesión" Click="BtnLogout_Click" Margin="5, 120, 0, 0" Width="120"/>
+
+        </StackPanel>
+
+        <!-- contenedor de páginas -->
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2" Margin="238,0,0,0"/>
+    </Grid>
+</Window>
