@@ -3,17 +3,15 @@
 ## 📌 Índice
 1. [Descripción](#-descripción)
 2. [Características principales](#-características-principales)
-3. [Estructura del Proyecto](#-estructura-del-proyecto)
-4. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-5. [Interfaz de Usuario](#-interfaz-de-usuario)
-6. [Instalación y Configuración](#-instalación-y-configuración)
+3. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+4. [Interfaz de Usuario](#-interfaz-de-usuario)
+5. [Instalación y Configuración](#-instalación-y-configuración)
    - [Requisitos previos](#1️⃣-requisitos-previos)
    - [Configuración de la base de datos](#2️⃣-configuración-de-la-base-de-datos)
    - [Ejecutar el Proyecto](#3️⃣-ejecutar-el-proyecto)
-7. [Funcionalidades](#-funcionalidades)
-8. [Capturas de Pantalla](#-capturas-de-pantalla)
-9. [Contacto](#-contacto)
-10. [Licencia](#-licencia)
+6. [Funcionalidades](#-funcionalidades)
+7. [Contacto](#-contacto)
+8. [Licencia](#-licencia)
 
 ## 📌 Descripción
 WPF Northwind CRUD es una aplicación de escritorio desarrollada en WPF y C# que permite la gestión de productos de la base de datos Northwind. Implementa un CRUD completo (Crear, Leer, Actualizar y Eliminar) con una interfaz moderna y funcional.
@@ -25,20 +23,6 @@ WPF Northwind CRUD es una aplicación de escritorio desarrollada en WPF y C# que
 - Funcionalidad de agregar, modificar y eliminar productos.
 - Gestión de categorías.
 - Uso de DataGrid para visualización de datos en tiempo real.
-
-## 📂 Estructura del Proyecto
-```
-📁 WPF Northwind CRUD
-│── 📂 Modelos
-│── 📂 Vistas
-│── 📂 Controladores
-│── 📂 Recursos
-│── App.xaml
-│── MainWindow.xaml
-│── BaseDeDatos.cs
-│── Program.cs
-│── README.md
-```
 
 ## 🛠️ Tecnologías Utilizadas
 - C# con .NET WPF
@@ -74,10 +58,6 @@ El diseño de la interfaz sigue un esquema visual moderno con colores oscuros y 
 - **Agregar productos:** Formulario para añadir nuevos productos con categoría.
 - **Modificar productos:** Edición de productos existentes.
 - **Eliminar productos:** Opción para eliminar productos de la base de datos.
-
-## ⚡ Capturas de Pantalla
-![Login](https://via.placeholder.com/800x450?text=Login+Screen)
-![Gestión de Productos](https://via.placeholder.com/800x450?text=Product+Management)
 
 ## 📧 Contacto
 **Autor:** Nicolás González  
